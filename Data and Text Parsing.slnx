@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Data and Text Parsing/Data and Text Parsing.vcxproj" Id="e2baa82c-1c2b-409a-abb6-f3d6fd7b6c00" />
+</Solution>
